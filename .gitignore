@@ -47,3 +47,5 @@ src/unetbootin/unetbootin_plugin_import.cpp
 src/unetbootin/moc_predefs.h
 /node_modules
 .getsecret.yaml
+thinkingmachine_bundle/
+thinkingmachine_bundle.zip
